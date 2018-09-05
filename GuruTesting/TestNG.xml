@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+
+<suite name="GuruTesting">
+<listeners>
+		<listener class-name="com.GuruTesting.Utilites.Reporting" />
+	</listeners>
+
+	<test name="GuruDemo App Test">
+	<parameter name="browser" value="chrome" />
+		<classes>
+			<class name="com.GuruTesting.TestCases.TC_LoginTest_001" />
+			<!--<class name="com.GuruTesting.TestCases.TC_LoginDDT_002" />-->
+			<class name="com.GuruTesting.TestCases.TC_AddCustomerTest_003" />
+		</classes>
+		</test>
+	<!--	<test name="GuruDemo App Test1">
+	<parameter name="browser" value="firefox" />
+		<classes>
+			<class name="com.GuruTesting.TestCases.TC_LoginTest_001" />
+		</classes>
+	</test>-->
+
+</suite>

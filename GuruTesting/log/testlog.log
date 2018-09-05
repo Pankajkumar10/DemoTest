@@ -1,0 +1,135 @@
+2018-08-28 15:31:16,916 - GuruTesting -INFO - URL Opened
+2018-08-28 15:31:17,073 - GuruTesting -INFO - Username Entered
+2018-08-28 15:31:17,172 - GuruTesting -INFO - Password entered
+2018-08-28 15:31:20,049 - GuruTesting -INFO - Clicked on Login Button
+2018-08-28 15:31:20,060 - GuruTesting -INFO - LoginTest PASSED
+2018-08-29 10:53:34,873 - GuruTesting -INFO - URL Opened
+2018-08-29 10:53:35,009 - GuruTesting -INFO - Username Entered
+2018-08-29 10:53:35,104 - GuruTesting -INFO - Password entered
+2018-08-29 10:53:37,309 - GuruTesting -INFO - Clicked on Login Button
+2018-08-29 10:53:37,317 - GuruTesting -INFO - LoginTest PASSED
+2018-08-29 11:15:01,996 - GuruTesting -INFO - URL Opened
+2018-08-29 11:15:02,161 - GuruTesting -INFO - Username Entered
+2018-08-29 11:15:02,252 - GuruTesting -INFO - Password entered
+2018-08-29 11:15:05,011 - GuruTesting -INFO - Clicked on Login Button
+2018-08-29 11:15:05,017 - GuruTesting -INFO - LoginTest PASSED
+2018-08-29 11:37:21,789 - GuruTesting -INFO - Username Entered
+2018-08-29 11:37:21,887 - GuruTesting -INFO - Password entered
+2018-08-29 11:37:23,805 - GuruTesting -INFO - Clicked on Login Button
+2018-08-29 11:37:23,813 - GuruTesting -INFO - LoginTest PASSED
+2018-08-29 15:07:18,332 - GuruTesting -INFO - Username Entered
+2018-08-29 15:07:18,382 - GuruTesting -INFO - Password entered
+2018-08-29 15:07:20,547 - GuruTesting -INFO - Clicked on Login Button
+2018-08-29 15:07:20,559 - GuruTesting -INFO - LoginTest PASSED
+2018-08-30 09:43:28,333 - GuruTesting -INFO - Username Entered
+2018-08-30 09:43:28,424 - GuruTesting -INFO - Password entered
+2018-08-30 09:43:30,637 - GuruTesting -INFO - Clicked on Login Button
+2018-08-30 09:43:30,644 - GuruTesting -INFO - LoginTest PASSED
+2018-08-30 09:53:19,800 - GuruTesting -INFO - Username Entered
+2018-08-30 09:53:19,893 - GuruTesting -INFO - Password entered
+2018-08-30 09:53:21,613 - GuruTesting -INFO - Clicked on Login Button
+2018-08-30 09:53:21,933 - GuruTesting -INFO - LoginTest FAILED
+2018-08-30 14:32:37,741 - GuruTesting -INFO - username provided
+2018-08-30 14:32:37,850 - GuruTesting -INFO - Password provided
+2018-08-30 14:32:38,252 - GuruTesting -INFO - Clicked on LoginBtn
+2018-08-30 14:32:43,224 - GuruTesting -INFO - username provided
+2018-08-30 14:32:43,288 - GuruTesting -INFO - Password provided
+2018-08-30 14:32:45,347 - GuruTesting -INFO - Clicked on LoginBtn
+2018-08-30 14:32:48,378 - GuruTesting -INFO - Login Success
+2018-08-30 14:32:54,629 - GuruTesting -INFO - username provided
+2018-08-30 14:32:54,699 - GuruTesting -INFO - Password provided
+2018-08-30 14:32:55,061 - GuruTesting -INFO - Clicked on LoginBtn
+2018-08-30 16:09:11,781 - GuruTesting -INFO - Login is Successful
+2018-08-30 16:09:16,330 - GuruTesting -INFO - Providing Customer details
+2018-08-30 16:24:02,846 - GuruTesting -INFO - Login is Successful
+2018-08-30 16:24:07,454 - GuruTesting -INFO - Providing Customer details
+2018-08-30 16:26:23,389 - GuruTesting -INFO - Login is Successful
+2018-08-30 16:26:28,000 - GuruTesting -INFO - Providing Customer details
+2018-08-30 16:26:34,025 - GuruTesting -INFO - Validating Customer creation Successful
+2018-08-30 16:29:45,467 - GuruTesting -INFO - Username Entered
+2018-08-30 16:29:45,577 - GuruTesting -INFO - Password entered
+2018-08-30 16:29:48,176 - GuruTesting -INFO - Clicked on Login Button
+2018-08-30 16:29:49,027 - GuruTesting -INFO - LoginTest FAILED
+2018-08-30 16:30:01,489 - GuruTesting -INFO - username provided
+2018-08-30 16:30:01,589 - GuruTesting -INFO - Password provided
+2018-08-30 16:30:02,031 - GuruTesting -INFO - Clicked on LoginBtn
+2018-08-30 16:30:08,229 - GuruTesting -INFO - username provided
+2018-08-30 16:30:08,321 - GuruTesting -INFO - Password provided
+2018-08-30 16:30:10,681 - GuruTesting -INFO - Clicked on LoginBtn
+2018-08-30 16:30:13,706 - GuruTesting -INFO - Login Success
+2018-08-30 16:30:20,128 - GuruTesting -INFO - username provided
+2018-08-30 16:30:20,222 - GuruTesting -INFO - Password provided
+2018-08-30 16:30:20,863 - GuruTesting -INFO - Clicked on LoginBtn
+2018-08-30 16:30:37,897 - GuruTesting -INFO - Login is Successful
+2018-08-30 16:30:42,800 - GuruTesting -INFO - Providing Customer details
+2018-08-30 16:30:49,020 - GuruTesting -INFO - Validating Customer creation Successful
+2018-08-31 09:59:51,206 - GuruTesting -INFO - Username Entered
+2018-08-31 09:59:51,306 - GuruTesting -INFO - Password entered
+2018-08-31 09:59:53,863 - GuruTesting -INFO - Clicked on Login Button
+2018-08-31 09:59:54,211 - GuruTesting -INFO - LoginTest FAILED
+2018-08-31 10:00:04,149 - GuruTesting -INFO - Login is Successful
+2018-08-31 10:00:09,036 - GuruTesting -INFO - Providing Customer details
+2018-08-31 10:00:14,850 - GuruTesting -INFO - Validating Customer creation Successful
+2018-08-31 10:02:57,350 - GuruTesting -INFO - Username Entered
+2018-08-31 10:02:57,466 - GuruTesting -INFO - Password entered
+2018-08-31 10:03:00,077 - GuruTesting -INFO - Clicked on Login Button
+2018-08-31 10:03:00,432 - GuruTesting -INFO - LoginTest FAILED
+2018-08-31 10:03:10,043 - GuruTesting -INFO - Login is Successful
+2018-08-31 10:03:14,981 - GuruTesting -INFO - Providing Customer details
+2018-08-31 10:03:20,703 - GuruTesting -INFO - Validating Customer creation Successful
+2018-08-31 10:04:06,261 - GuruTesting -INFO - Username Entered
+2018-08-31 10:04:06,372 - GuruTesting -INFO - Password entered
+2018-08-31 10:04:08,557 - GuruTesting -INFO - Clicked on Login Button
+2018-08-31 10:04:08,907 - GuruTesting -INFO - LoginTest FAILED
+2018-08-31 10:04:19,227 - GuruTesting -INFO - Login is Successful
+2018-08-31 10:04:23,764 - GuruTesting -INFO - Providing Customer details
+2018-08-31 10:04:56,856 - GuruTesting -INFO - Validating Customer creation Successful
+2018-08-31 10:10:58,923 - GuruTesting -INFO - Username Entered
+2018-08-31 10:10:59,030 - GuruTesting -INFO - Password entered
+2018-08-31 10:11:01,495 - GuruTesting -INFO - Clicked on Login Button
+2018-08-31 10:11:01,840 - GuruTesting -INFO - LoginTest FAILED
+2018-08-31 10:11:22,707 - GuruTesting -INFO - Login is Successful
+2018-08-31 10:11:32,144 - GuruTesting -INFO - Providing Customer details
+2018-08-31 10:11:48,155 - GuruTesting -INFO - Validating Customer creation Successful
+2018-08-31 10:12:15,087 - GuruTesting -INFO - Username Entered
+2018-08-31 10:12:15,181 - GuruTesting -INFO - Password entered
+2018-08-31 10:12:17,195 - GuruTesting -INFO - Clicked on Login Button
+2018-08-31 10:12:17,203 - GuruTesting -INFO - LoginTest PASSED
+2018-08-31 10:12:26,889 - GuruTesting -INFO - Login is Successful
+2018-08-31 10:12:36,323 - GuruTesting -INFO - Providing Customer details
+2018-08-31 10:12:52,544 - GuruTesting -INFO - Validating Customer creation Successful
+2018-08-31 12:16:32,111 - GuruTesting -INFO - Username Entered
+2018-08-31 12:16:32,226 - GuruTesting -INFO - Password entered
+2018-08-31 12:16:34,273 - GuruTesting -INFO - Clicked on Login Button
+2018-08-31 12:16:34,279 - GuruTesting -INFO - LoginTest PASSED
+2018-08-31 12:16:45,469 - GuruTesting -INFO - Login is Successful
+2018-08-31 12:16:49,905 - GuruTesting -INFO - Providing Customer details
+2018-08-31 12:17:03,796 - GuruTesting -INFO - Validating Customer creation Successful
+2018-08-31 12:21:57,813 - GuruTesting -INFO - Username Entered
+2018-08-31 12:21:58,404 - GuruTesting -INFO - Password entered
+2018-08-31 12:22:01,321 - GuruTesting -INFO - Clicked on Login Button
+2018-08-31 12:22:01,330 - GuruTesting -INFO - LoginTest PASSED
+2018-08-31 12:22:13,698 - GuruTesting -INFO - Login is Successful
+2018-08-31 12:22:18,175 - GuruTesting -INFO - Providing Customer details
+2018-08-31 12:22:24,013 - GuruTesting -INFO - Validating Customer creation Successful
+2018-08-31 14:00:16,978 - GuruTesting -INFO - Username Entered
+2018-08-31 14:00:17,077 - GuruTesting -INFO - Password entered
+2018-08-31 14:00:18,980 - GuruTesting -INFO - Clicked on Login Button
+2018-08-31 14:00:18,987 - GuruTesting -INFO - LoginTest PASSED
+2018-08-31 14:00:29,097 - GuruTesting -INFO - Login is Successful
+2018-08-31 14:00:33,511 - GuruTesting -INFO - Providing Customer details
+2018-08-31 14:00:37,851 - GuruTesting -INFO - Validating Customer creation Successful
+2018-08-31 14:08:55,570 - GuruTesting -INFO - Username Entered
+2018-08-31 14:08:55,674 - GuruTesting -INFO - Password entered
+2018-08-31 14:08:58,133 - GuruTesting -INFO - Clicked on Login Button
+2018-08-31 14:08:58,141 - GuruTesting -INFO - LoginTest PASSED
+2018-08-31 14:09:08,239 - GuruTesting -INFO - Login is Successful
+2018-08-31 14:09:13,217 - GuruTesting -INFO - Providing Customer details
+2018-08-31 14:09:19,233 - GuruTesting -INFO - Validating Customer creation Successful
+2018-08-31 14:23:39,990 - GuruTesting -INFO - Username Entered
+2018-08-31 14:23:40,091 - GuruTesting -INFO - Password entered
+2018-08-31 14:23:42,392 - GuruTesting -INFO - Clicked on Login Button
+2018-08-31 14:23:42,401 - GuruTesting -INFO - LoginTest PASSED
+2018-08-31 14:23:54,360 - GuruTesting -INFO - Login is Successful
+2018-08-31 14:24:04,012 - GuruTesting -INFO - Providing Customer details
+2018-08-31 14:24:20,049 - GuruTesting -INFO - Validating Customer creation Successful
